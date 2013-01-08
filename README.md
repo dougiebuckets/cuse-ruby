@@ -13,6 +13,7 @@ For Ruby on Rails, in your Gemfile simply add the following and perform a 'bundl
 <pre><code>gem 'cuse'</pre></code>
 <p>
 For other Ruby applications:
+<pre><code>gem install cuse</code></pre>
 <pre><code>require 'cuse'</code></pre>
 <p>
 Enjoy fellow Cuse nerds!
